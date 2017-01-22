@@ -9,3 +9,75 @@ h1{
     text-decoration:underline;
     color:gold;
 }
+div#navcontainer
+{
+background-color: gold;
+border-top: solid 1px #FFFFFF;
+border-bottom: solid 1px #FFFFFF;
+}
+
+div#navcontainer ul
+{
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+color: blue;
+text-align: center;
+margin: 0;
+padding-bottom: 5px;
+padding-top: 5px;
+}
+
+div#navcontainer ul li
+{
+display: inline;
+margin-left: -4px;
+}
+
+div#navcontainer ul li a
+{
+padding: 5px 10px 5px 10px;
+color: blue;
+text-decoration: none;
+border-right: 1px solid #fff;
+}
+
+div#navcontainer ul li a:hover
+{
+background-color: #16008D;
+color: white;
+}
+
+#active a { border-left: 1px solid #fff; }
+
+    
+h2{
+    text-size:3.0em;
+    color:gold;
+    position:fixed;
+    text-align:center;
+}
+li {
+    color:gold;
+    text-align:center;
+    text-size:1000px;
+}
+p{
+    color:gold;
+}
+#News{
+    color:gold;
+    text-size:500px;
+    text-align:center;
+}
+p2{
+    color:gold;
+}
+h3{
+    color:gold;
+}
+h4{ 
+    color:gold;
+}  
+#gallery1{
+    color:gold;
+}
